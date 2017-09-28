@@ -9,7 +9,7 @@
 * [算法、数据结构、C、C++](https://github.com/TYRMars/AlgorithmLearn) `正在学习整理中`
 * [Java学习](https://github.com/TYRMars/JavaLearn) `正在筹备中`
 * [Python学习](https://github.com/TYRMars/PythonLearn) `正在筹备中`
-* [Web安全学习](https://github.com/TYRMars/JSLearn-es6)`整理完成、完善内容中`
+* [Web安全学习](https://github.com/TYRMars/WebSafeLearn)`整理完成、完善内容中`
 * [计算机网络](http://www.kejiganhuo.tech)`博客更新`
 
 
