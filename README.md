@@ -40,8 +40,8 @@ JavaEE
 PHP学习
 
 * [PHP学习](https://github.com/TYRMars/PHPLearn)`正在学习整理中`
-* [ThinkPHP学习](https://)``
-* [PHPAPI学习](https://github.com/TYRMars/PHP-API)``
+* [ThinkPHP学习](https://github.com/zhangjianan1996/kejiganhuo-PHPSide)`正在学习中`
+* [PHPAPI学习](https://github.com/TYRMars/PHP-API)`正在学习中`
 
 node.js学习
 
